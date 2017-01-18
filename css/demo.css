@@ -1,0 +1,45 @@
+.xop-container {
+	font-family: Arial, sans-serif;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.xop-button {
+	border: 3px solid #fcad26;
+	border-radius: 50px;
+	color: #fcad26;
+	background-color: #fff;
+	padding: 15px 35px;
+	margin:20px 10px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+.xop-button:hover {
+	background-color: #fcad26;
+	color: #fff;
+}
+
+.xop-button.cart:after {
+	content:'\f07a';
+	font-family: FontAwesome;
+	padding-left: 10px;
+}
+
+.xop-button.favorite:after {
+	content: '\f004';
+	font-family: FontAwesome;
+	padding-left: 10px;
+}
+
+.xop-button.submit:after {
+	content: '\f0e0';
+	font-family: FontAwesome;
+	padding-left: 10px;
+
+}
