@@ -4,7 +4,7 @@ How To Add Icons To Buttons Using Font Awesome
 & [View the demo](http://xopixel.com/demo/FontAwesome%20Icons%20&%20Buttons/)
 
 ## License
-Read the License & Terms of Use [here]()
+Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
 
 ## Credits
 - [Font Awesome](fontawesome.io)
